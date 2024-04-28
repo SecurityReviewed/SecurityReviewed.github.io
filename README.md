@@ -24,6 +24,7 @@
 #### Resources ####
 > https://www.reddit.com/r/cybersecurity/comments/137xf0d/to_anyone_considering_a_career_in_cybersecurity/
 >> Talks about experience in helpdesk being invaluable.
+> "Entry-level infosec is not an entry-level position."
 
 # Title page
 Sample text here w/ an H1 header above it.
