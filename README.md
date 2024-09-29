@@ -1,6 +1,4 @@
-# This is an H1 #
-## This is an H2 ##
-### This is an H3 ######
+
 ***
 
 Self-referential link: https://SecurityReviewed.github.io
@@ -109,6 +107,10 @@ Secret Sharing Explained Visually (youtube.com)
 > Running your generic web scanner tool and providing a report that the service is running SSLv3 is NOT a particularly valuable output. In that same vein, doing a scan of the organization's perimeter, identifying several endpoints running different web & OS versions, all of which are running different SSL/TLS protocol versions, different cypher suites, etc. then providing recommendations to consolidate the services behind a reverse proxy coupled with a WAF, then industry best practices for cipher suites, the market share of browsers supporting which, etc.
 >>    Someone new to infosec, do they know what a cipher suite is? Do they know if we should be using SSLv2, v3, TLS 1.0, 1.1, 1.2, or 1.3? Would they even look for services on non-standard ports? I've seen organizations hosting administrator login portals on 8080 or 8443 and they were exposed to the internet. I will hopefully be able to tie all of these threads back to the same idea. We, as security professionals, or aspiring security professionals, should strive to understand the fundamentals of the technology we work with every day.
 
+
+# This is an H1 #
+## This is an H2 ##
+### This is an H3 ######
 
 # Title page
 Sample text here w/ an H1 header above it.
