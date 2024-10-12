@@ -1,0 +1,32 @@
+This isn’t intended to scare people off, but instead I want to set expectations. Most disappointment occurs because of misaligned expectations. You go to a steakhouse expecting absolute 10/10 steak, end up having a 7/10 meal and despite the meal being above average, you’re disappointed.
+I’ve found this concept quite interesting, feel free to read more about it in articles like The Expectation Trap: The Mindset That Makes You Overreact to Disappointments - Thrive Global.
+
+The security field is both broad and deep
+Some fields of study allow and actively encourage the hyper specialisation into a niche topic. Many of them are rewarded. For example, many doctors specialize in a single area of the body, many lawyers only take environment-related cases or international tax cases, etc. While Infosec absolutely allows for those people, it is by no means the norm. Whether or not I agree with the way the world is, the average security professional is expected to have a reasonable amount of knowledge on nearly every aspect of security.
+You will join one meeting to discuss the layout of your DMZ and how trust is established with external clients, then 30-minutes later you’ll be asked which encryption protocols, algorithms, and key lengths are sufficient to protect your companies Top Secret data.
+All of this to say, security professionals can absolutely thrive as a specialist in certain areas like ICS and SCADA security or as a cryptography specialist on the cutting edge of quantum cryptography, but these are the 1%. The average security professionals distinguish themselves by being self-directed learners and expanding their knowledge into many different areas.
+
+Why do we learn?
+I’ll preface this by saying this is 100% my personal opinion, but I view the opportunity to learn as a luxury and an incredible gift. Learning opens us up to new perspectives, ideas, and possibilities. It deepens our understanding of the world, the people in it, and oftentimes makes us better people. The process of learning teaches humility, reminding us there’s always room for growth and not knowing the answers isn’t a condemnation of who we are as a person.
+As a final comment, (and getting off my soapbox) being more educated makes us better at what we do. We’re better able to understand complicated and nuanced scenarios, and it allows us to draw on the successes and failures of others without having to commit the same mistakes.
+
+Where do we start?
+Find things that interest you
+	I’m confident many people have experienced an incredibly boring class in school where the teacher would monologue or drone on for hours, barely keeping the students awake. And many of us have experienced the opposite, a teacher who captivates students, grabs their attention, and makes learning fun. While the details aren’t an exact science, the general consensus is to make people care, or in this scenario, find something you already care about.
+
+Find things that you have strong feelings for or against.
+	This method has worked extremely well for me. I’ve had colleagues and friends make statements that I strongly agree or disagree with, but can’t sufficiently argue for or against it. These areas can be pitfalls where we’re strongly bought into an idea, but our knowledge doesn’t match our level of conviction for our belief. The concept of matching our understanding to our level of confidence or conviction is a separate topic, but to put it briefly, our level of confidence in a belief should be closely related to our level of knowledge in that area.
+Too many times I’ve come out of the gates with a strong opinion, only to realize I can’t back up my feelings with convincing arguments. Then after learning more, I come to realize my initial position was wrong or I was too absolutist.
+
+Find a group of people who are interested in similar topics.
+Sometimes a topic won’t immediately seem interesting, but purely by having a group of like-minded people, the work becomes more interesting. Collaboration, bouncing ideas off others, getting different perspectives, it spices things up. Forums and chat groups are great for this, typically when the latest & greatest vulnerability comes out, people will congregate and discuss. Whether you actively participate or just listen in, the fact that people are together & working towards a common goal oftentimes is motivation enough.
+
+If you want specific resources, feel free to check out the Resources page. I will keep it updated with new sources as I find them.
+
+How do we learn?
+I’m by on means an expert on how brains work, so I won’t attempt to go into the nitty gritty here, but will give some of my personal experiences.
+Take notes - This might be my old-person brain, but taking notes with pen and paper seems to help ideas stick better compared to typing the same notes. I absolutely prefer the benefits of typed notes like searchability, storage, typing speed, legibility, but for whatever reason my brain just remembers better when I write things down.
+Repetition - When you’re forced to continuously draw upon the same concepts over and over again, they just seem to stick better. I’m sure many people have experienced spending a brief, period of time hyper-concentrating on a single topic, only to not touch it for a year and have the majority of it be forgotten. Typically dregs are left deep in your memory and could be recalled with some poking, prodding, and context, but having to use that information on a regular basis seems to be the better strategy.
+Talking with others - Many people pick out different pieces of information they find valuable and have different perspectives. Talking about these topics brings out the different interpretations and often leads to better, more thought out conclusions.
+Explaining the concepts to others - This could be a contested opinion, but I think the people who can explain a complicated concept to a lay person, typically have a better grasp of the topic than those who can’t. A deep understanding of the topic requires you to know how to highlight the key points, explain why they’re critical, and to not overburden the listener with inconsequential facts. The first time you do this exercise will likely go poorly. This is a skill and the act of explaining is a form of practice.
+Practice explaining topics to your mom or your grandparents, your siblings, or your friends. These are incredibly low stake, no-judgement zones, where you can see what hits home and where you need to improve.
