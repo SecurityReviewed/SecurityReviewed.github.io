@@ -33,6 +33,9 @@ https://www.reddit.com/r/cybersecurity/wiki/faq/breaking_in/
 https://krebsonsecurity.com/
 	A reporter & journalist (probably selling him short here lol) on a huge amount of cyber security issues. Brian regularly gets interviews from cyber criminals and does a great job highlighting cybercrime.
 
+https://micahflee.com/
+	Tech journalist who famously covered the Trump administration's use of TeleMessage Signal and how it was hacked in 20-minutes. https://micahflee.com/how-the-knock-off-signal-app-used-by-trump-officials-got-hacked-in-20-minutes/
+
 https://raidersofthelostarp.tech/
 	Security Architect from Cisco who writes blog posts about a bunch of different topics like vulnerability exploitation, technical details on how/why certain attacks are possible, data exfil, etc.
 
